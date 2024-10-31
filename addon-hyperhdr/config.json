@@ -10,7 +10,7 @@
   ],
   "startup": "system",
   "ingress": true,
-  "ingress_port": 8123
+  "ingress_port": 8090,
   "apparmor": true,
   "boot": "auto",
   "ports": {
