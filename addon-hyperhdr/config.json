@@ -34,7 +34,6 @@
   "map": [
     "config:rw"
   ],
-  "image": "noname93d/hyperhdr-addon-{arch}",
   "options": {},
   "schema": {},
   "privileged": [
