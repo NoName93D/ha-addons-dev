@@ -10,6 +10,7 @@
   ],
   "startup": "system",
   "ingress": true,
+  "ingress_port": 8123
   "apparmor": true,
   "boot": "auto",
   "ports": {
